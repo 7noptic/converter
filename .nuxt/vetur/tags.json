@@ -1,0 +1,29 @@
+{
+  "AppConverter": {
+    "description": "Auto imported from components/AppConverter/AppConverter.vue"
+  },
+  "AppConverterAddTypes": {
+    "description": "Auto imported from components/AppConverter/converter-add.types.ts"
+  },
+  "AppConverterModeTypes": {
+    "description": "Auto imported from components/AppConverter/converter-mode.types.ts"
+  },
+  "AppConverterSettingsTypes": {
+    "description": "Auto imported from components/AppConverter/converter-settings.types.ts"
+  },
+  "AppHeader": {
+    "description": "Auto imported from components/AppHeader/AppHeader.vue"
+  },
+  "AppHeaderAuthModal": {
+    "description": "Auto imported from components/AppHeader/AppHeaderAuthModal.vue"
+  },
+  "AppHeaderAuthFormTypes": {
+    "description": "Auto imported from components/AppHeader/auth-form.types.ts"
+  },
+  "AppHeaderAuthModalState": {
+    "description": "Auto imported from components/AppHeader/auth-modal.state.ts"
+  },
+  "AppNotification": {
+    "description": "Auto imported from components/AppNotification/AppNotification.vue"
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "image",
+    "path": "/image",
+    "component": "C:\\\\Education\\\\TypeScript\\\\compiler\\\\pages\\\\image.vue",
+    "chunkName": "pages/image"
+  },
+  {
+    "name": "music",
+    "path": "/music",
+    "component": "C:\\\\Education\\\\TypeScript\\\\compiler\\\\pages\\\\music.vue",
+    "chunkName": "pages/music"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "C:\\\\Education\\\\TypeScript\\\\compiler\\\\pages\\\\profile.vue",
+    "chunkName": "pages/profile"
+  },
+  {
+    "name": "video",
+    "path": "/video",
+    "component": "C:\\\\Education\\\\TypeScript\\\\compiler\\\\pages\\\\video.vue",
+    "chunkName": "pages/video"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Education\\\\TypeScript\\\\compiler\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
